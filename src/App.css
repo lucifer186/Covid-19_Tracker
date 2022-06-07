@@ -52,3 +52,10 @@ body {
     flex-direction: column;
   }
 }
+@media screen and (max-width:475px) {
+  .app__dropdown
+  {
+    font-size: 1.3rem;
+    font-weight: 700;
+    width: 50%;
+  }}
